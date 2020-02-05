@@ -11,7 +11,7 @@ It will compile with flags `-Wall -Werror -Wextra`.
 
 1. Clone the repository
 2. Type `make` to compile all files
-3. Now you can use libftprintf.a
+3. Now you can use *libftprintf.a*
 
 If you want to eliminate .o files type `make clean` and all files will disappear.
 
