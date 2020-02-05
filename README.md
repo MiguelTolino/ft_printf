@@ -1,6 +1,6 @@
 # ft_printf
 
-This project is based on recoding the useful function `printf`.
+This project is based on recoding the useful function `printf` from *<stdio.h>*.
 
 It contains *libft* from my own repository.
 
